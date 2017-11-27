@@ -1,7 +1,6 @@
 React To-Do App
 ----
-
-## Users can use a checklist tool to outline tasks and items.
+Users can use a checklist tool to outline tasks and items.
 
 ### Features
 
