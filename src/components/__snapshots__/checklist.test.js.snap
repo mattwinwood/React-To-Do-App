@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    className="alert alert-success undefined"
+    role="alert"
+  >
+    Completed 
+  </div>
+  <ul
+    className="list-group"
+  >
+    <li
+      className="list-group-item"
+      onClick={[Function]}
+      onMouseUp={[Function]}
+      value="not_started"
+    >
+      <span
+        className="circle active"
+      />
+      <span
+        className="todo-desc"
+      >
+        To do task #1
+      </span>
+    </li>
+    <li
+      className="list-group-item"
+      onClick={[Function]}
+      onMouseUp={[Function]}
+      value="not_started"
+    >
+      <span
+        className="circle active"
+      />
+      <span
+        className="todo-desc"
+      >
+        To do task #2
+      </span>
+    </li>
+    <li
+      className="list-group-item"
+      onClick={[Function]}
+      onMouseUp={[Function]}
+      value="not_started"
+    >
+      <span
+        className="circle active"
+      />
+      <span
+        className="todo-desc"
+      >
+        To buy task #1
+      </span>
+    </li>
+  </ul>
+  <h2
+    className="sc-bdVaJa geYwAp"
+  >
+    2
+     tasks completed
+  </h2>
+  <ul
+    className="list-group"
+  >
+    <li
+      className="list-group-item"
+      onClick={[Function]}
+      onMouseUp={[Function]}
+      value="complete"
+    >
+      <span
+        className="circle complete"
+      />
+      <span
+        className="todo-desc"
+      >
+        To do task #3
+      </span>
+    </li>
+    <li
+      className="list-group-item"
+      onClick={[Function]}
+      onMouseUp={[Function]}
+      value="complete"
+    >
+      <span
+        className="circle complete"
+      />
+      <span
+        className="todo-desc"
+      >
+        To do task #4
+      </span>
+    </li>
+  </ul>
+</div>
+`;
